@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 36.255 s <<< FAILURE! - in TestSuite
+phptravels.testHomepage.testSelection  Time elapsed: 0.001 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\Punam\eclipse-workspace\phptravels\TestData.xlxs (The system cannot find the file specified)
+	at phptravels.testHomepage.testSelection(testHomepage.java:30)
+
+phptravels.testHomepage.getss[[TestResult name=testSelection status=FAILURE method=testHomepage.testSelection()[pri:0, instance:phptravels.testHomepage@1af2d44a] output={null}]](0)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at phptravels.testHomepage.getss(testHomepage.java:39)
+

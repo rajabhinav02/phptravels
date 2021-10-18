@@ -1,0 +1,4 @@
+com\qa\php\base\base.class
+com\qa\php\pages\homepage.class
+com\qa\php\pages\loginpage.class
+com\qa\php\utility\utilities.class
